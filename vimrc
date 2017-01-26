@@ -26,7 +26,7 @@ set enc=utf-8
 set foldcolumn=1
 set linespace=0
 set history=1000
-set list listchars=eol:¬,trail:-,extends:>,precedes:<
+set list listchars=tab:▸\ ,eol:¬,trail:-,extends:>,precedes:<
 set ffs=unix
 
 "SyntaxComplete
@@ -37,6 +37,7 @@ endif
 "Theme
 colorscheme molokai
 set t_Co=256
+"set background=dark
 
 ""Airline
 set laststatus=2

@@ -1,0 +1,9 @@
+Xft.autohint:	false
+Xft.dpi:	96
+Xft.antialias:	true
+Xft.rgba:	rgb
+Xft.hinting:	true
+Xft.hintstyle:	hintslight
+Xft.lcdfilter:	lcddefault
+
+xterm*faceName: Hack:size=9:antialias=true
